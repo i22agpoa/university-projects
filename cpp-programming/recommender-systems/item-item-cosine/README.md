@@ -3,10 +3,14 @@
 Academic project implementing an item-item collaborative filtering recommender system using cosine similarity.
 
 ## Build
+```bash
 g++ main.cc -o app
+```
 
 ## Run
+```bash
 ./app
+```
 
 ## Description
 The program computes an item-item similarity matrix from a user–item rating matrix
