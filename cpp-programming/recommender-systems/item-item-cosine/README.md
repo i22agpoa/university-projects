@@ -3,7 +3,7 @@
 Academic project implementing an item-item collaborative filtering recommender system using cosine similarity.
 
 ## Build
-g++ -std=c++17 main.cpp -o app
+g++ main.cc -o app
 
 ## Run
 ./app
